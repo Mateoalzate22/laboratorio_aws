@@ -7,7 +7,7 @@ import './App.css'
 function App() {
   return (
     <main>
-      <h1>Laboratorio DevOps - AWS</h1>
+      <h1>Laboratorio DevOps - AWS - El mejor grupo</h1>
       <h2>Desplegado con AWS Amplify</h2>
       <p>Grupo: </p>
       <p>Valentina Molina </p>

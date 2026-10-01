@@ -7,6 +7,7 @@ function App() {
     'Mauricio Zuluaga',
     'Cristian David Castaño',
     'Mateo Alzate',
+    'Willington'
   ]
 
   return (
